@@ -1,5 +1,7 @@
 # BpSearch
 
+This should be a web-based query tool for BoobPedia; currently it's just a generated default Angular application stuck on the initial commit; I want to work on this once I have time; The integration with Vercel is already set up.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
 ## Development server
